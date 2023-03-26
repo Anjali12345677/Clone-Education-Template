@@ -5,12 +5,19 @@ This repository contains a clone Education University Template created using HTM
 Features
 
 Responsive design with Bootstrap grid system
+
 Dynamic menu with smooth scrolling
+
 Course listings with descriptions and pricing
+
 Events calendar with upcoming events
+
 Admission forms for student applications
+
 Contact form for inquiries
+
 Social media links
+
 
 Usage
 
